@@ -1,1 +1,1 @@
-# desafios-de-codigo-banco-carrefour
+Este repositório foi criado com o intuito de salvar os desafios realizados no Banco Carrefour Data Engineer da DIO, onde foram oferecidos desafios para Soluções Aritméticas em Python e desafios em Python.
